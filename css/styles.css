@@ -275,6 +275,7 @@ body {
 
 .for-after {
     position: relative;
+    color: #404BBF;
 }
 
 
@@ -284,7 +285,6 @@ body {
     height: 4px;
     left: 0px;
     bottom: -1px;
-    color: #404BBF;
     background: #404BBF;
     border-radius: 2px;
     content: '';
