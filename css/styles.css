@@ -273,17 +273,18 @@ body {
 
 }
 
-.for-affter {
+.for-after {
     position: relative;
 }
 
 
-.for-affter::after {
+.for-after::after {
     display: block;
     width: 100%;
     height: 4px;
     left: 0px;
     bottom: -1px;
+    color: #404BBF;
     background: #404BBF;
     border-radius: 2px;
     content: '';
@@ -832,7 +833,7 @@ body {
     height: 24px;
     border-radius: 50%;
     padding: 0;
-    transition: background-color var(--transition-standard), fill var(--transition-standard), border var(--transition-standard);
+    transition: background-color var(--transition-standard), border var(--transition-standard);
 }
 
 .modal-close-btn:hover,
