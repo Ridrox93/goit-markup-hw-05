@@ -273,13 +273,13 @@ body {
 
 }
 
-.for-after {
+.stepler {
     position: relative;
     color: #404BBF;
 }
 
 
-.for-after::after {
+.stepler::after {
     display: block;
     width: 100%;
     height: 4px;
