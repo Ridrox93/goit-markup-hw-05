@@ -227,13 +227,12 @@ body {
     color: #404bbf;
 }
 
-.adress-link-mail {
+.adress-link-mail-tel {
 
     margin-left: auto;
 }
 
-.adress-link-mail,
-.adress-link-tel {
+.adress-link-mail-tel {
     display: block;
     font-weight: 400;
     font-size: 16px;
@@ -251,10 +250,8 @@ body {
 }
 */
 
-.adress-link-mail:hover,
-.adress-link-mail:focus,
-.adress-link-tel:hover,
-.adress-link-tel:focus {
+.adress-link-mail-tel:hover,
+.adress-link-mail-tel:focus {
     color: #404BBF;
 }
 
